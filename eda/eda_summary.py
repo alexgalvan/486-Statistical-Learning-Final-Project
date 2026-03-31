@@ -35,10 +35,10 @@ def generate_summary(file_path):
             output.append(counts.to_string())
             
     # Save to file
-    with open('eda/eda_summary.txt', 'w') as f:
+    with open('eda/plots/eda_summary.md', 'w') as f:
         f.write("\n".join(output))
     
-    print("Summary generated successfully in eda/eda_summary.txt")
+    print("Summary generated successfully in eda/plots/eda_summary.md")
 
 if __name__ == "__main__":
     if os.path.exists('data.csv'):
