@@ -1,0 +1,4 @@
+--- Causal Analysis (Doubly Robust) Results ---
+Naive Difference: 102.10 weeks
+Doubly Robust ATE: 71.37 weeks
+Findings: College increases employment duration by 71.37 weeks.
