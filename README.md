@@ -1,4 +1,2 @@
-# stats_project
-
-
-[paper](https://docs.google.com/document/d/1ZREKHM9_-JPwTETmZeU3SR_jxN7KWWy3e_FrMukG3P0/edit?tab=t.0)
+Final Report
+[Statistical learning Final Project Writeup.pdf](https://github.com/user-attachments/files/27728490/Statistical.learning.Final.Project.Writeup.pdf)
